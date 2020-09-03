@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Granblue_DailyChecklist"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Image HorizontalAlignment="Left" Height="163" Margin="67,49,0,0" VerticalAlignment="Top" Width="201"/>
+        Title="Welcome to GranblueFantasy_Checklist" Height="500" Width="700" Background="#FF3D91AA">
+    <Grid Height="500" VerticalAlignment="Top" Width="700" Background="#FF3D91AA">
+        <Image HorizontalAlignment="Left" Height="490" VerticalAlignment="Top" Width="406" Source="/Hello.jpg" Grid.ColumnSpan="2"/>
 
     </Grid>
 </Window>
